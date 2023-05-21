@@ -8,6 +8,6 @@ package com.wjm;
  */
 public class BranchDemo {
     public static void main(String[] args) {
-        System.out.println("test Branch");
+        System.out.println("test Branch！");
     }
 }
